@@ -1,5 +1,5 @@
 # Louis H. Steimel
-A front-end web development position in the web development industry where my expertise in HTML, CSS, JS, .etc would be needed
+A front-end web developmer seeking a position in the web development industry where my expertise in HTML, CSS, JS, .etc would be needed.
 
 ## Experience:
 
