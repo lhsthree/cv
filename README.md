@@ -39,11 +39,9 @@ Site is designed so that JS creates navigation for each section and clicking on 
 
 * HTML
 * CSS & Sass
-
 * jQuery
 * Bootstrap
-* React JS & Flux
-* D3.js
+* React JS
 
 **Back-end:**
 
